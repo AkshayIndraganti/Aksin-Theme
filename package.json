@@ -2,10 +2,23 @@
     "name": "Indraganti-Akshay",
     "displayName": "Aksin",
     "description": "A New Age dark Theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Indraganti Akshay",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AkshayIndraganti/Aksin-Theme"
+    },
+    "keywords": [
+        "dark",
+        "theme",
+        "dark-theme",
+        "dark-theme-for-new developers",
+        "atom-dark-theme"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
+    "icon": "Aksin.png",
     "categories": [
         "Themes"
     ],
