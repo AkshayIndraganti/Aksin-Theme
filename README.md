@@ -1,11 +1,9 @@
-# README
+# Visual studio Theme
 
-## This is the README for your extension "Indraganti-Akshay"
+## Authors
 
-This is New age dark theme with simple four color with tint and shads of that color to experience the color download this extension
+- [@Akshayindraganti](https://github.com/AkshayIndraganti)
 
-### For more information
+## Feedback
 
-- [Github](https://github.com/AkshayIndraganti/Aksin-Theme)
-
-**Enjoy!**
+If you have any feedback, please reach out to us at akshayindraganti@gmail.com
